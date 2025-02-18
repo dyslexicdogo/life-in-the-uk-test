@@ -3,25 +3,25 @@ Life in the United Kingdom (3rd edition)
 
 ## History Dates ##
 
-| When | What | Details |
-| ---        | ---       | --- |
+| When | What | Details | Picture |
+| ---        | ---       | --- | --- |
 |10,000yrs         | Britain separated | from the continent | 
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age |
 | 410                  | Romans end | Roman army(arrived in 43) leaves and never returns |
-| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
-| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
-| 1215                | Magna Carta | The King is subject to the Law | 
-| 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
-| 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
+| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great | <img src="images/alfred-the-great.jpg" width="300"> |
+| 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain | <img src="images/william-the-conqueror.jpg" width="300"> |
+| 1215                | Magna Carta | The King is subject to the Law (John was king at that time) | 
+| 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales  | <img src="images/Edward-I.jpg" width="300"> |
+| 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins | <img src="images/bannockburn.jpg" width="300"> |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
-| 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
+| 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France | <img src="images/king-henryV.png" width="300"> |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
-| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
+| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation | <img src="images/HneryVII.jpg" width="300"> |
 | 1560                | Scottish abolish the Pope | |
-| 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
-| 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
-| 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
+| 1588                | Spanish Armada | Elizabeth I (led by Sir Francis Drake) defeats spanish invasion to convert to Catholicism | <img src="images/Eli1.jpg" width="300"> |
+| 1603                | James I | End of the Tudor period, James VI of Scotland becomes king known as James I for England | <img src="images/jamesVI.jpg" width="300"> |
+| 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November | <img src="images/guy-fawkes.jpg" width="300"> |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
 | 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby) where the king's army is defeated |
 | 1649                | Britain republic | after Charles I is executed |
